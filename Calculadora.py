@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-
 #cores
 
 cor1 = '#1e1f1e' #preta
